@@ -1,6 +1,6 @@
 # Vi Home Assignment — Churn Uplift Solution
 
-**Submitted by Amir Gabay, Phone number: 050-2440885**
+**Submitted by Amir Gabay**
 ---
 
 This repository contains my solution to the VI Data Science home assignment.  
